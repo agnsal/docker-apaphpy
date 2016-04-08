@@ -2,4 +2,4 @@
 A docker image with apache, php, python
 
 To use it in your docker setup:
-docker pull agnsal/docker-apaphpy
+docker pull agnesesalutari/apaphpy
